@@ -1,0 +1,6 @@
+USE MASTER DROP DATABASE IF EXISTS DoctorWho
+GO
+    CREATE DATABASE DoctorWho
+Go
+    USE DoctorWho
+Go
